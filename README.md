@@ -1,4 +1,4 @@
-Here are some of the mini projects that I used to learn python.
+Here are some of the mini projects that I am using to learn python.
 
 Reference @TechWithTim on youtube.
 
